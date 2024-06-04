@@ -16,43 +16,67 @@ redirect_from:
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
 <span class='anchor' id='about-me'></span>
+My name is Han Fang, I work at TeleAI （China Telecom）as a research engineer now in Beijing.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. Suspendisse condimentum, libero vel tempus mattis, risus risus vulputate libero, elementum fermentum mi neque vel nisl. Maecenas facilisis maximus dignissim. Curabitur mattis vulputate dui, tincidunt varius libero luctus eu. Mauris mauris nulla, scelerisque eget massa id, tincidunt congue felis. Sed convallis tempor ipsum rhoncus viverra. Pellentesque nulla orci, accumsan volutpat fringilla vitae, maximus sit amet tortor. Aliquam ultricies odio ut volutpat scelerisque. Donec nisl nisl, porttitor vitae pharetra quis, fringilla sed mi. Fusce pretium dolor ut aliquam consequat. Cras volutpat, tellus accumsan mattis molestie, nisl lacus tempus massa, nec malesuada tortor leo vel quam. Aliquam vel ex consectetur, vehicula leo nec, efficitur eros. Donec convallis non urna quis feugiat.
+I am now working on video-text retrieval, video understanding, text-to-image generation and multimodal large language models. If you are seeking any form of **academic cooperation**, please feel free to email me at [ fanghan1996@outlook.com](mailto:fanghan1996@outlook.com). We are hiring interns!
 
-My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
+I obtained my Master's degree in Information and Communication Engineering from BUPT in 2022 and Bachelor's degree in Telecommunications Engineering with Management from BUPT in 2019.
+
+My research interest includes face recognition, video/image-text understanding and text-to-image generation. I have published 10+ papers at the top international AI journals and conferences such as TMM, ECCV, ACM MM and ICME.
 
 
 # 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2024.03*: &nbsp;🎉 Two papers are accepted by ICME 2024 (oral presentation).
+- *2023.07*: &nbsp;🎉🎉 Two papers are accepted by ACM MM 2023.
+- *2022.12*: &nbsp;🎉🎉 Our paper about video-text retrieval (CLIP2Video) is accedpted by TMM 2022.
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TMM 2022</div><img src='images/clip2video.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
+[Transferring Image-CLIP to Video-Text Retrieval via Temporal Relations](https://ieeexplore.ieee.org/abstract/document/9973385/)
 
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
+**Han Fang**, Pengfei Xiong, Luhui Xu, Wenhan Luo
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+[**Project**](https://github.com/CryhanFang/CLIP2Video) <strong><span class='show_paper_citations' data='kjeKM7gAAAAJ:UeHWp8X0CEIC'></span></strong>
 </div>
 </div>
 
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+
+- `ICME 2024` <span style="color:red">(Oral)</span> [ProTA: Probabilistic Token Aggregation for Text-Video Retrieval](https://arxiv.org/pdf/2404.12216), **Han Fang**, et al.
+- `ICME 2024` <span style="color:red">(Oral)</span> [Disentangle and Denoise: Tackling Context Misalignment for Video Moment Retrieval](), Kaijing Ma, **Han Fang**, et al.
+- `ICCVW 2023` [Alignment and Generation Adapter for Efficient Video-text Understanding]([[https://arxiv.org/pdf/2404.12216](https://arxiv.org/pdf/2305.07910](https://openaccess.thecvf.com/content/ICCV2023W/CLVL/papers/Fang_Alignment_and_Generation_Adapter_for_Efficient_Video-Text_Understanding_ICCVW_2023_paper.pdf))), **Han Fang**, et al.
+- `ICCVW 2023` [LLaViLo: Boosting Video Moment Retrieval via Adapter-Based Multimodal Modeling]([https://dl.acm.org/doi/abs/10.1145/3581783.3611916](https://openaccess.thecvf.com/content/ICCV2023W/CLVL/papers/Ma_LLaViLo_Boosting_Video_Moment_Retrieval_via_Adapter-Based_Multimodal_Modeling_ICCVW_2023_paper.pdf)), Kaijing Ma, **Han Fang**, et al.
+- `ACM MM 2023` [Mask to Reconstruct: Cooperative Semantics Completion for Video-text Retrieval]([https://arxiv.org/pdf/2404.12216](https://arxiv.org/pdf/2305.07910)), **Han Fang**, et al.
+- `ACM MM 2023` [A Baseline Investigation: Transformer-based Cross-view Baseline for Text-based Person Search](https://dl.acm.org/doi/abs/10.1145/3581783.3611916), Xianghao Zang, Wei Gao, Ge Li, **Han Fang**, et al.
+- `TMM 2022` [Transferring image-clip to video-text retrieval via temporal relations](https://arxiv.org/pdf/2106.11097), **Han Fang**, et al.
+- `CCBR 2022` [Mlfw: A database for face recognition on masked faces](https://arxiv.org/pdf/2109.05804), ChengRui Wang, **Han Fang**, et al.
+- `FG 2021` [Augmented Face Representation Learning via Transitive Distillation](https://ieeexplore.ieee.org/abstract/document/9666949), **Han Fang**, et al.
+- `TMM 2021` [Dynamic training data dropout for robust deep face recognition](https://www.researchgate.net/profile/Yaoyao-Zhong-2/publication/355712968_Dynamic_Training_Data_Dropout_for_Robust_Deep_Face_Recognition/links/63253eeb071ea12e363c3f70/Dynamic-Training-Data-Dropout-for-Robust-Deep-Face-Recognition.pdf), Yaoyao Zhong, **Han Fang**, et al.
+- `ICASSP 2021` [Adaptive Re-Balancing Network with Gate Mechanism for Long-Tailed Visual Question Answering](https://ieeexplore.ieee.org/abstract/document/9414074), Hongyu Chen, Ruifang Liu, **Han Fang**, et al.
+- `ECCV 2020` [Generate to adapt: Resolution adaption network for surveillance face recognition](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123600732.pdf), **Han Fang**, et al.
+- `CVPRW 2020` [Triple-GAN: Progressive face aging with triple translation loss](https://openaccess.thecvf.com/content_CVPRW_2020/papers/w48/Fang_Triple-GAN_Progressive_Face_Aging_With_Triple_Translation_Loss_CVPRW_2020_paper.pdf),  **Han Fang**, et al.
+- `IGTA 2018` [Semantic Segmentation of Aerial Image Using Fully Convolutional Network](), Junli Yang, Yiran Jiang, **Han Fang**, et al.
 
 # 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2022.6* Beijing Excellent Graduate Award (Top 1%).
+- *2021.12* First Class Scholarship.
+- *2020.12* First Class Scholarship.
+- *2019.12* First Class Scholarship.
+- *2019.6* Beijing Excellent Graduate Award (Top 1%).
+- *2019.5* Beijing Excellent Bachelor Dissertation Award (Top 3%).
+- *2018.12* First Class Scholarship.
+- *2017.12* First Class Scholarship.
+- *2016.12* First Class Scholarship.
+
 
 # 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2019.09 - 2022.06*, Master, Beijing University Of Posts And Telecommunications, Beijing.
+- *2015.09 - 2019.06*, Undergraduate, Beijing University Of Posts And Telecommunications and Queen Mary University of London, Beijing.
 
-# 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
+
 
 # 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+- *2021.03 - 2021.09*, PCG, Tencent, Beijing.
+- *2020.12 - 2021.02*, MIG, SenseTime, Beijing.
