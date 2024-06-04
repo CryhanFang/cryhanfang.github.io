@@ -16,7 +16,7 @@ redirect_from:
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
 <span class='anchor' id='about-me'></span>
-My name is Han Fang, I work at TeleAI （China Telecom）as a research engineer now in Beijing.
+Welcome! My name is Han Fang, I work at TeleAI （China Telecom）as a research engineer now in Beijing.
 
 I am now working on video-text retrieval, video understanding, text-to-image generation and multimodal large language models. If you are seeking any form of **academic cooperation**, please feel free to email me at [ fanghan1996@outlook.com](mailto:fanghan1996@outlook.com). We are hiring interns!
 
