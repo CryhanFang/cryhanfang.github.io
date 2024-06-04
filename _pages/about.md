@@ -22,7 +22,7 @@ I am now working on video-text retrieval, video understanding, text-to-image gen
 
 I obtained my Master's degree in Information and Communication Engineering from BUPT in 2022 and Bachelor's degree in Telecommunications Engineering with Management from BUPT in 2019.
 
-My research interest includes face recognition, video/image-text understanding and text-to-image generation. I have published 10+ papers at the top international AI journals and conferences such as TMM, ECCV, ACM MM and ICME. <a href='https://scholar.google.com/citations?user=kjeKM7gAAAAJ'><img src="https://img.shields.io/endpoint?logo=Google%20Scholar&url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2FCryhanFang%2Fcryhanfang.github.io@google-scholar-stats%2Fgs_data_shieldsio.json&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a> 
+My research interest includes face recognition, video/image-text understanding and text-to-image generation. I have published 10+ papers at the top international AI journals and conferences such as TMM, ECCV, ACM MM and ICME.
 
 # 🔥 News
 - *2024.03*: &nbsp;🎉 Two papers are accepted by ICME 2024 (oral presentation).
