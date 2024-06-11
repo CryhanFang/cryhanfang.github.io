@@ -43,7 +43,7 @@ My research interest includes face recognition, video/image-text understanding a
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CCBR 2021</div><img src='images/project-mlfw.jpg' alt="sym2" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CCBR 2022</div><img src='images/project-mlfw.jpg' alt="sym2" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [MLFW: A Database for Face Recognition on Masked Faces](https://arxiv.org/pdf/2109.05804/)
@@ -63,7 +63,7 @@ Chengrui Wang, **Han Fang**, Yaoyao Zhong, Weihong Deng
 - `ACM MM 2023` [A Baseline Investigation: Transformer-based Cross-view Baseline for Text-based Person Search](https://dl.acm.org/doi/abs/10.1145/3581783.3611916), Xianghao Zang, Wei Gao, Ge Li, **Han Fang**, et al.
 - `TMM 2022` [Transferring image-clip to video-text retrieval via temporal relations](https://arxiv.org/pdf/2106.11097), **Han Fang**, et al.
 - `CCBR 2022` [Mlfw: A database for face recognition on masked faces](https://arxiv.org/pdf/2109.05804), ChengRui Wang, **Han Fang**, et al.
-- `FG 2021` [Augmented Face Representation Learning via Transitive Distillation](https://ieeexplore.ieee.org/abstract/document/9666949), **Han Fang**, et al.
+- `FG 2021` <span style="color:red">(Oral)</span>[Augmented Face Representation Learning via Transitive Distillation](https://ieeexplore.ieee.org/abstract/document/9666949), **Han Fang**, et al.
 - `TMM 2021` [Dynamic training data dropout for robust deep face recognition](https://www.researchgate.net/profile/Yaoyao-Zhong-2/publication/355712968_Dynamic_Training_Data_Dropout_for_Robust_Deep_Face_Recognition/links/63253eeb071ea12e363c3f70/Dynamic-Training-Data-Dropout-for-Robust-Deep-Face-Recognition.pdf), Yaoyao Zhong, **Han Fang**, et al.
 - `ICASSP 2021` [Adaptive Re-Balancing Network with Gate Mechanism for Long-Tailed Visual Question Answering](https://ieeexplore.ieee.org/abstract/document/9414074), Hongyu Chen, Ruifang Liu, **Han Fang**, et al.
 - `ECCV 2020` [Generate to adapt: Resolution adaption network for surveillance face recognition](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123600732.pdf), **Han Fang**, et al.
