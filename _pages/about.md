@@ -31,7 +31,7 @@ My research interest includes face recognition, video/image-text understanding a
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TMM 2022</div><img src='images/clip2video.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TMM 2022</div><img src='images/clip2video.png' alt="sym1" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Transferring Image-CLIP to Video-Text Retrieval via Temporal Relations](https://ieeexplore.ieee.org/abstract/document/9973385/)
@@ -39,6 +39,18 @@ My research interest includes face recognition, video/image-text understanding a
 **Han Fang**, Pengfei Xiong, Luhui Xu, Wenhan Luo
 
 [**Project**](https://github.com/CryhanFang/CLIP2Video) <strong><span class='show_paper_citations' data='kjeKM7gAAAAJ:UeHWp8X0CEIC'></span></strong>
+</div>
+</div>
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CCBR 2021</div><img src='images/project-mlfw.jpg' alt="sym2" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[MLFW: A Database for Face Recognition on Masked Faces](https://arxiv.org/pdf/2109.05804/)
+
+Chengrui Wang, **Han Fang**, Yaoyao Zhong, Weihong Deng
+
+[**Dataset**](http://whdeng.cn/mlfw) <strong><span class='show_paper_citations' data='kjeKM7gAAAAJ:UeHWp8X0CEIC'></span></strong>
 </div>
 </div>
 
