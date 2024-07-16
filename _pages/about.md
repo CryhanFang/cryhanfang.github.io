@@ -55,7 +55,7 @@ Chengrui Wang, **Han Fang**, Yaoyao Zhong, Weihong Deng
 </div>
 </div>
 
-- `ACM MM 2024` <span style="color:red">(Oral)</span> [GOAL: Grounded text-to-image Synthesis with Joint Layout Alignment Tuning](), Yaqi Li, **Han Fang**, et al.
+- `ACM MM 2024` <span style="color:red"></span> [GOAL: Grounded text-to-image Synthesis with Joint Layout Alignment Tuning](), Yaqi Li, **Han Fang**, et al.
 - `ICME 2024` <span style="color:red">(Oral)</span> [ProTA: Probabilistic Token Aggregation for Text-Video Retrieval](https://arxiv.org/pdf/2404.12216), **Han Fang**, et al.
 - `ICME 2024` <span style="color:red">(Oral)</span> [Disentangle and Denoise: Tackling Context Misalignment for Video Moment Retrieval](), Kaijing Ma, **Han Fang**, et al.
 - `ICCVW 2023` [Alignment and Generation Adapter for Efficient Video-text Understanding]([[https://arxiv.org/pdf/2404.12216](https://arxiv.org/pdf/2305.07910](https://openaccess.thecvf.com/content/ICCV2023W/CLVL/papers/Fang_Alignment_and_Generation_Adapter_for_Efficient_Video-Text_Understanding_ICCVW_2023_paper.pdf))), **Han Fang**, et al.
