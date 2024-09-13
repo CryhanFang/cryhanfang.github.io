@@ -55,6 +55,8 @@ Chengrui Wang, **Han Fang**, Yaoyao Zhong, Weihong Deng
 </div>
 </div>
 
+- `Arxiv 2024` <span style="color:red"></span> [Trusted Unified Feature-Neighborhood Dynamics for Multi-View Classification](https://github.com/JethroJames/TUNED)
+- `Arxiv 2024` <span style="color:red"></span> [Beyond Uncertainty: Evidential Deep Learning for Robust Video Temporal Grounding](https://kaijing.space/SRAM/)
 - `ACM MM 2024` <span style="color:red"></span> [GOAL: Grounded text-to-image Synthesis with Joint Layout Alignment Tuning](https://openreview.net/forum?id=N6hFKeLOfu), Yaqi Li, **Han Fang**, et al.
 - `ICME 2024` <span style="color:red">(Oral)</span> [ProTA: Probabilistic Token Aggregation for Text-Video Retrieval](https://arxiv.org/pdf/2404.12216), **Han Fang**, et al.
 - `ICME 2024` <span style="color:red">(Oral)</span> [Disentangle and Denoise: Tackling Context Misalignment for Video Moment Retrieval](https://arxiv.org/pdf/2408.07600), Kaijing Ma, **Han Fang**, et al.
