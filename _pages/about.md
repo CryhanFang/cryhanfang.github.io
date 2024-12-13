@@ -48,7 +48,7 @@ My research interest includes face recognition, video/image-text understanding a
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2025</div><img src='images/clip2video.png' alt="sym2" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2025</div><img src='images/TUNED.png' alt="sym2" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 [Trusted Unified Feature-Neighborhood Dynamics for Multi-View Classification](https://arxiv.org/pdf/2409.00755)
 Haojian Huang, Chuanyu Qin, Zhe Liu, Kaijing Ma, Jin Chen, **Han Fang**, Chao Ban, Hao Sun, Zhongjiag He
