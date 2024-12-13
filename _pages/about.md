@@ -22,9 +22,10 @@ I am now working on video-text retrieval, video understanding, text-to-image gen
 
 I obtained my Master's degree in Information and Communication Engineering from BUPT in 2022 and Bachelor's degree in Telecommunications Engineering with Management from BUPT in 2019.
 
-My research interest includes face recognition, video/image-text understanding and text-to-image generation. I have published 10+ papers at the top international AI journals and conferences such as TMM, ECCV, ACM MM and ICME.
+My research interest includes face recognition, video/image-text understanding and text-to-image generation. I have published 10+ papers at the top international AI journals and conferences such as TMM, ECCV, AAAI, ACM MM, and ICME.
 
 # 🔥 News
+- *2024.12*: &nbsp;🎉🎉 One paper is accepted by AAAI 2025.
 - *2024.07*: &nbsp;🎉🎉 One paper is accepted by ACM MM 2024.
 - *2024.03*: &nbsp;🎉🎉 Two papers are accepted by ICME 2024 (oral presentation).
 - *2023.07*: &nbsp;🎉🎉 Two papers are accepted by ACM MM 2023.
@@ -54,7 +55,7 @@ Chengrui Wang, **Han Fang**, Yaoyao Zhong, Weihong Deng
 [**Dataset**](http://whdeng.cn/mlfw) <strong><span class='show_paper_citations' data='kjeKM7gAAAAJ:UeHWp8X0CEIC'></span></strong>
 </div>
 </div>
-
+- `AAAI 2025` <span style="color:red"></span> [Trusted Unified Feature-Neighborhood Dynamics for Multi-View Classification](https://openreview.net/forum?id=N6hFKeLOfu), Haojian Huang, Chuanyu Qin, Zhe Liu, Kaijing Ma, Jin Chen, **Han Fang**, et al.
 - `ACM MM 2024` <span style="color:red"></span> [GOAL: Grounded text-to-image Synthesis with Joint Layout Alignment Tuning](https://openreview.net/forum?id=N6hFKeLOfu), Yaqi Li, **Han Fang**, et al.
 - `ICME 2024` <span style="color:red">(Oral)</span> [ProTA: Probabilistic Token Aggregation for Text-Video Retrieval](https://arxiv.org/pdf/2404.12216), **Han Fang**, et al.
 - `ICME 2024` <span style="color:red">(Oral)</span> [Disentangle and Denoise: Tackling Context Misalignment for Video Moment Retrieval](https://arxiv.org/pdf/2408.07600), Kaijing Ma, **Han Fang**, et al.
