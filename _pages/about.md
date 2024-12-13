@@ -33,6 +33,10 @@ My research interest includes face recognition, video/image-text understanding a
 
 # 📝 Publications 
 
+
+
+
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TMM 2022</div><img src='images/clip2video.png' alt="sym1" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -44,18 +48,25 @@ My research interest includes face recognition, video/image-text understanding a
 </div>
 </div>
 
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CCBR 2022</div><img src='images/project-mlfw.jpg' alt="sym2" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2025</div><img src='images/clip2video.png' alt="sym2" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
+[Trusted Unified Feature-Neighborhood Dynamics for Multi-View Classification](https://arxiv.org/pdf/2409.00755)
+Haojian Huang, Chuanyu Qin, Zhe Liu, Kaijing Ma, Jin Chen, **Han Fang**, Chao Ban, Hao Sun, Zhongjiag He
+[**Project**](https://github.com/CryhanFang/CLIP2Video) <strong><span class='show_paper_citations' data='kjeKM7gAAAAJ:UeHWp8X0CEIC'></span></strong>
+</div>
+</div>
 
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CCBR 2022</div><img src='images/project-mlfw.jpg' alt="sym3" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
 [MLFW: A Database for Face Recognition on Masked Faces](https://arxiv.org/pdf/2109.05804/)
-
 Chengrui Wang, **Han Fang**, Yaoyao Zhong, Weihong Deng
-
 [**Dataset**](http://whdeng.cn/mlfw) <strong><span class='show_paper_citations' data='kjeKM7gAAAAJ:UeHWp8X0CEIC'></span></strong>
 </div>
 </div>
-- `AAAI 2025` <span style="color:red"></span> [Trusted Unified Feature-Neighborhood Dynamics for Multi-View Classification](https://openreview.net/forum?id=N6hFKeLOfu), Haojian Huang, Chuanyu Qin, Zhe Liu, Kaijing Ma, Jin Chen, **Han Fang**, et al.
+
+
+- `AAAI 2025` <span style="color:red"></span> [Trusted Unified Feature-Neighborhood Dynamics for Multi-View Classification](https://arxiv.org/pdf/2409.00755), Haojian Huang, Chuanyu Qin, Zhe Liu, Kaijing Ma, Jin Chen, **Han Fang**, et al.
 - `ACM MM 2024` <span style="color:red"></span> [GOAL: Grounded text-to-image Synthesis with Joint Layout Alignment Tuning](https://openreview.net/forum?id=N6hFKeLOfu), Yaqi Li, **Han Fang**, et al.
 - `ICME 2024` <span style="color:red">(Oral)</span> [ProTA: Probabilistic Token Aggregation for Text-Video Retrieval](https://arxiv.org/pdf/2404.12216), **Han Fang**, et al.
 - `ICME 2024` <span style="color:red">(Oral)</span> [Disentangle and Denoise: Tackling Context Misalignment for Video Moment Retrieval](https://arxiv.org/pdf/2408.07600), Kaijing Ma, **Han Fang**, et al.
