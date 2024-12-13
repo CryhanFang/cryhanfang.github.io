@@ -81,15 +81,11 @@ Chengrui Wang, **Han Fang**, Yaoyao Zhong, Weihong Deng
 - `IGTA 2018` [Semantic Segmentation of Aerial Image Using Fully Convolutional Network](), Junli Yang, Yiran Jiang, **Han Fang**, et al.
 
 # 🎖 Honors and Awards
-- *2022.6* Beijing Excellent Graduate Award (Top 1%).
-- *2021.12* First Class Scholarship.
-- *2020.12* First Class Scholarship.
-- *2019.12* First Class Scholarship.
-- *2019.6* Beijing Excellent Graduate Award (Top 1%).
-- *2019.5* Beijing Excellent Bachelor Dissertation Award (Top 3%).
-- *2018.12* First Class Scholarship.
-- *2017.12* First Class Scholarship.
-- *2016.12* First Class Scholarship.
+- *2022.06* Beijing Excellent Graduate Award (Top 1%).
+- *2019.06* Beijing Excellent Graduate Award (Top 1%).
+- *2019.05* Beijing Excellent Bachelor Dissertation Award (Top 3%).
+- *2016, 2017, 2018, 2019, 2020, 2021* First-Class Scholarship of Beijing University of Posts and Telecommunications.
+
 
 
 # 📖 Educations
