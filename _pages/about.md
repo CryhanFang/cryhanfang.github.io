@@ -35,19 +35,6 @@ My research interest includes face recognition, video/image-text understanding a
 
 
 
-
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TMM 2022</div><img src='images/clip2video.png' alt="sym1" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[Transferring Image-CLIP to Video-Text Retrieval via Temporal Relations](https://ieeexplore.ieee.org/abstract/document/9973385/)
-
-**Han Fang**, Pengfei Xiong, Luhui Xu, Wenhan Luo
-
-[**Project**](https://github.com/CryhanFang/CLIP2Video) <strong><span class='show_paper_citations' data='kjeKM7gAAAAJ:UeHWp8X0CEIC'></span></strong>
-</div>
-</div>
-
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2025</div><img src='images/TUNED.png' alt="sym2" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 [Trusted Unified Feature-Neighborhood Dynamics for Multi-View Classification](https://arxiv.org/pdf/2409.00755)
@@ -55,6 +42,16 @@ Haojian Huang, Chuanyu Qin, Zhe Liu, Kaijing Ma, Jin Chen, **Han Fang**, Chao Ba
 [**Project**](https://github.com/CryhanFang/CLIP2Video) <strong><span class='show_paper_citations' data='kjeKM7gAAAAJ:UeHWp8X0CEIC'></span></strong>
 </div>
 </div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TMM 2022</div><img src='images/clip2video.png' alt="sym1" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+[Transferring Image-CLIP to Video-Text Retrieval via Temporal Relations](https://ieeexplore.ieee.org/abstract/document/9973385/)
+**Han Fang**, Pengfei Xiong, Luhui Xu, Wenhan Luo
+[**Project**](https://github.com/CryhanFang/CLIP2Video) <strong><span class='show_paper_citations' data='kjeKM7gAAAAJ:UeHWp8X0CEIC'></span></strong>
+</div>
+</div>
+
+
 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CCBR 2022</div><img src='images/project-mlfw.jpg' alt="sym3" width="100%"></div></div>
