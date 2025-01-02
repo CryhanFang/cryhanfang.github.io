@@ -25,7 +25,7 @@ I obtained my Master's degree in Information and Communication Engineering from 
 My research interest includes face recognition, video/image-text understanding and text-to-image generation. I have published 10+ papers at the top international AI journals and conferences such as TMM, ECCV, AAAI, ACM MM, and ICME.
 
 # 🔥 News
-- *2024.12*: &nbsp;🎉🎉 two papers are accepted by ICASSP 2025.
+- *2024.12*: &nbsp;🎉🎉 Two papers are accepted by ICASSP 2025.
 - *2024.12*: &nbsp;🎉🎉 One paper is accepted by AAAI 2025.
 - *2024.07*: &nbsp;🎉🎉 One paper is accepted by ACM MM 2024.
 - *2024.03*: &nbsp;🎉🎉 Two papers are accepted by ICME 2024 (oral presentation).
