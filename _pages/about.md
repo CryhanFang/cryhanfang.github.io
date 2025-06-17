@@ -16,13 +16,13 @@ redirect_from:
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
 <span class='anchor' id='about-me'></span>
-Welcome! My name is Han Fang, I work at TeleAI （China Telecom）as a research engineer now in Beijing.
+Welcome! My name is Han Fang, I work at TeleAI (China Telecom) as a Senior Research Engineer now in Beijing.
 
-I am now working on video-text retrieval, video understanding, text-to-image generation and multimodal large language models. If you are seeking any form of **academic cooperation**, please feel free to email me at [ fanghan1996@outlook.com](mailto:fanghan1996@outlook.com). We are hiring interns!
+I am now working on video-text retrieval, video understanding, text-to-image generation, and multimodal large language models. If you are seeking any form of **academic cooperation**, please feel free to email me at [ fanghan1996@outlook.com](mailto:fanghan1996@outlook.com). We are hiring interns!
 
 I obtained my Master's degree in Information and Communication Engineering from BUPT in 2022 and Bachelor's degree in Telecommunications Engineering with Management from BUPT in 2019.
 
-My research interest includes face recognition, video/image-text understanding and text-to-image generation. I have published 10+ papers at the top international AI journals and conferences such as TMM, ECCV, AAAI, ACM MM, and ICME.
+My research interest includes face recognition, video/image-text understanding, and text-to-image generation. I have published 10+ papers at the top international AI journals and conferences such as TMM, ECCV, AAAI, ACM MM, and ICME.
 
 # 🔥 News
 - *2024.12*: &nbsp;🎉🎉 Two papers are accepted by ICASSP 2025.
