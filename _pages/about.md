@@ -64,7 +64,7 @@ Chengrui Wang, **Han Fang**, Yaoyao Zhong, Weihong Deng
 </div>
 </div>
 
-- `ICASSP 2025` <span style="color:red"></span> [DDL: Dynamic Direction Learning for Semi-Supervised Facial Expression Recognition](https://ieeexplore.ieee.org/abstract/document/10955730/authors#authors), Yaqi Li, Jing Jiang, Yuhang Zhang, **Han Fang**, et al.
+- `TAFFC 2025` <span style="color:red"></span> [DDL: Dynamic Direction Learning for Semi-Supervised Facial Expression Recognition](https://ieeexplore.ieee.org/abstract/document/10955730/authors#authors), Yaqi Li, Jing Jiang, Yuhang Zhang, **Han Fang**, et al.
 - `ICASSP 2025` <span style="color:red"></span> [FASTER: Face Attribute Sliders with Semantic  Rewards](https://ieeexplore.ieee.org/abstract/document/10889494/), Jingyan Chen, Lanxiang Zhou, **Han Fang**, et al.
 - `ICASSP 2025` <span style="color:red"></span> [ViCo: A Multitask Video-enhanced and Cognition-preserving Modality Alignment Training Framework](https://ieeexplore.ieee.org/abstract/document/10888636), Zhenda Yu, Jin Chen, Jiayu Shen, Lanxiang Zhou, **Han Fang**, et al.
 - `AAAI 2025` <span style="color:red"></span> [Trusted Unified Feature-Neighborhood Dynamics for Multi-View Classification](https://arxiv.org/pdf/2409.00755), Haojian Huang, Chuanyu Qin, Zhe Liu, Kaijing Ma, Jin Chen, **Han Fang**, et al.
