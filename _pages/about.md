@@ -25,6 +25,7 @@ I obtained my Master's degree in Information and Communication Engineering from 
 My research interest includes face recognition, video/image-text understanding, and text-to-image generation. I have published 10+ papers at the top international AI journals and conferences such as TMM, ECCV, AAAI, ACM MM, and ICME.
 
 # 🔥 News
+- *2025.04*: &nbsp;🎉🎉 One paper is accepted by IEEE Transactions on Affective Computing 2025.
 - *2024.12*: &nbsp;🎉🎉 Two papers are accepted by ICASSP 2025.
 - *2024.12*: &nbsp;🎉🎉 One paper is accepted by AAAI 2025.
 - *2024.07*: &nbsp;🎉🎉 One paper is accepted by ACM MM 2024.
@@ -63,8 +64,9 @@ Chengrui Wang, **Han Fang**, Yaoyao Zhong, Weihong Deng
 </div>
 </div>
 
-- `ICASSP 2025` <span style="color:red"></span> [FASTER: Face Attribute Sliders with Semantic  Rewards](), Jingyan Chen, Lanxiang Zhou, **Han Fang**, et al.
-- `ICASSP 2025` <span style="color:red"></span> [ViCo: A Multitask Video-enhanced and Cognition-preserving Modality Alignment Training Framework](), Zhenda Yu, Jin Chen, Jiayu Shen, Lanxiang Zhou, **Han Fang**, et al.
+- `ICASSP 2025` <span style="color:red"></span> [DDL: Dynamic Direction Learning for Semi-Supervised Facial Expression Recognition](https://ieeexplore.ieee.org/abstract/document/10955730/authors#authors), Yaqi Li, Jing Jiang, Yuhang Zhang, **Han Fang**, et al.
+- `ICASSP 2025` <span style="color:red"></span> [FASTER: Face Attribute Sliders with Semantic  Rewards](https://ieeexplore.ieee.org/abstract/document/10889494/), Jingyan Chen, Lanxiang Zhou, **Han Fang**, et al.
+- `ICASSP 2025` <span style="color:red"></span> [ViCo: A Multitask Video-enhanced and Cognition-preserving Modality Alignment Training Framework](https://ieeexplore.ieee.org/abstract/document/10888636), Zhenda Yu, Jin Chen, Jiayu Shen, Lanxiang Zhou, **Han Fang**, et al.
 - `AAAI 2025` <span style="color:red"></span> [Trusted Unified Feature-Neighborhood Dynamics for Multi-View Classification](https://arxiv.org/pdf/2409.00755), Haojian Huang, Chuanyu Qin, Zhe Liu, Kaijing Ma, Jin Chen, **Han Fang**, et al.
 - `ACM MM 2024` <span style="color:red"></span> [GOAL: Grounded text-to-image Synthesis with Joint Layout Alignment Tuning](https://openreview.net/forum?id=N6hFKeLOfu), Yaqi Li, **Han Fang**, et al.
 - `ICME 2024` <span style="color:red">(Oral)</span> [ProTA: Probabilistic Token Aggregation for Text-Video Retrieval](https://arxiv.org/pdf/2404.12216), **Han Fang**, et al.
