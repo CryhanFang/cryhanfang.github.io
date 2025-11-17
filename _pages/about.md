@@ -25,6 +25,7 @@ I obtained my Master's degree in Information and Communication Engineering from 
 My research interest includes face recognition, video/image-text understanding, and text-to-image generation. I have published 10+ papers at the top international AI journals and conferences such as TMM, ECCV, AAAI, ACM MM, and ICME.
 
 # 🔥 News
+- *2025.09*: &nbsp;🎉🎉 One paper is accepted by ICDAR 2025.
 - *2025.04*: &nbsp;🎉🎉 One paper is accepted by IEEE Transactions on Affective Computing 2025.
 - *2024.12*: &nbsp;🎉🎉 Two papers are accepted by ICASSP 2025.
 - *2024.12*: &nbsp;🎉🎉 One paper is accepted by AAAI 2025.
@@ -64,6 +65,9 @@ Chengrui Wang, **Han Fang**, Yaoyao Zhong, Weihong Deng
 </div>
 </div>
 
+- `AAAI 2026` <span style="color:red"></span> [SelectVision: Adaptive Vision Resolution Selection for Visual Document Understandingn]([https://link.springer.com/chapter/10.1007/978-3-032-04627-7_23](https://arxiv.org/pdf/2408.16272?)),  Haojian Huang, Kaijing Ma, Jin Chen, Haodong Chen, Zhou Wu, Xianghao Zang,  **Han Fang**, et al.
+
+- `ICDAR 2025` <span style="color:red"></span> [SelectVision: Adaptive Vision Resolution Selection for Visual Document Understandingn](https://link.springer.com/chapter/10.1007/978-3-032-04627-7_23), Zhongjiang He, An Zhao, Ye Yuan, **Han Fang**, et al.
 - `TAFFC 2025` <span style="color:red"></span> [DDL: Dynamic Direction Learning for Semi-Supervised Facial Expression Recognition](https://ieeexplore.ieee.org/abstract/document/10955730/authors#authors), Yaqi Li, Jing Jiang, Yuhang Zhang, **Han Fang**, et al.
 - `ICASSP 2025` <span style="color:red"></span> [FASTER: Face Attribute Sliders with Semantic  Rewards](https://ieeexplore.ieee.org/abstract/document/10889494/), Jingyan Chen, Lanxiang Zhou, **Han Fang**, et al.
 - `ICASSP 2025` <span style="color:red"></span> [ViCo: A Multitask Video-enhanced and Cognition-preserving Modality Alignment Training Framework](https://ieeexplore.ieee.org/abstract/document/10888636), Zhenda Yu, Jin Chen, Jiayu Shen, Lanxiang Zhou, **Han Fang**, et al.
