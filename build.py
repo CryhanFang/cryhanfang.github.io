@@ -121,19 +121,19 @@ def publications(text: str) -> str:
             '</div></article>'
         )
 
-    marker = "# Selected Works"
+    marker = "# Publications"
     before, separator, after = remaining.partition(marker)
     if not separator:
         return markdown(remaining) + "\n" + "\n".join(selected_html)
     more_marker = "## Publications"
     selected_intro, more_separator, more = after.partition(more_marker)
-    result = [markdown(before), "<h1>Selected Works</h1>"]
-    if selected_intro.strip():
+    result = [markdown(before), "<h1>Publications</h1>"]
+    if more_separator and selected_intro.strip():
         result.append(markdown(selected_intro))
     result.extend(selected_html)
-    if more_separator:
-        result.append('<h2 id="publication-list">Publications</h2>')
-        result.append(markdown(more))
+    publication_list = more if more_separator else selected_intro
+    if publication_list.strip():
+        result.append(f'<div id="publication-list">{markdown(publication_list)}</div>')
     return "\n".join(filter(None, result))
 
 
