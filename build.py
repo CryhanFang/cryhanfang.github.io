@@ -23,7 +23,7 @@ def inline(text: str) -> str:
     text = re.sub(
         r"\[([^\]]+)\]\(([^)]+)\)",
         lambda m: hold(
-            f'<a href="{html.escape(m.group(2), quote=True)}" '
+            f'<a href="{html.escape(html.unescape(m.group(2)), quote=True)}" '
             'target="_blank" rel="noopener">'
             f"{m.group(1)}</a>"
         ),
@@ -86,6 +86,16 @@ def markdown(text: str) -> str:
     close_paragraph()
     close_list()
     return "\n".join(output)
+
+
+def news(text: str) -> str:
+    """Keep each news date and its complete body in the two grid columns."""
+    rendered = markdown(text)
+    return re.sub(
+        r"<li>(<strong>[^<]+</strong>)\s*(.*?)</li>",
+        r'<li>\1<span class="news-text">\2</span></li>',
+        rendered,
+    )
 
 
 def publications(text: str) -> str:
@@ -152,7 +162,7 @@ def main() -> None:
     template = (ROOT / "template.html").read_text(encoding="utf-8")
     replacements = {
         "{{ABOUT}}": markdown((CONTENT / "about.md").read_text(encoding="utf-8")),
-        "{{NEWS}}": markdown((CONTENT / "news.md").read_text(encoding="utf-8")),
+        "{{NEWS}}": news((CONTENT / "news.md").read_text(encoding="utf-8")),
         "{{PUBLICATIONS}}": publications((CONTENT / "publications.md").read_text(encoding="utf-8")),
         "{{HONORS}}": markdown((CONTENT / "honors.md").read_text(encoding="utf-8")),
         "{{EDUCATION}}": markdown((CONTENT / "education.md").read_text(encoding="utf-8")),
