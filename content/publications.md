@@ -10,7 +10,7 @@ The image path is relative to this repository.
 :::selected
 venue: AAAI 2026
 title: Adaptive Evidential Learning for Temporal-Semantic Robustness in Moment Retrieval
-authors: Haojian Huang, Chuanyu Qin, Zhe Liu, Kaijing Ma, Jin Chen, **Han Fang**, Chao Ban, Hao Sun, Zhongjiang He
+authors: Haojian Huang, Kaijing Ma, Jin Chen, Haodong Chen, Zhou Wu, Xianghao Zang, **Han Fang**, Chao Ban, Hao Sun*, Mulin Chen* and Zhongjiang He.
 image: assets/images/DEMR.png
 paper: https://ojs.aaai.org/index.php/AAAI/article/download/37414/41376
 project: https://github.com/KaijingOfficial/DEMR
@@ -21,7 +21,7 @@ project: https://github.com/KaijingOfficial/DEMR
 :::selected
 venue: AAAI 2025
 title: Trusted Unified Feature-Neighborhood Dynamics for Multi-View Classification
-authors: Haojian Huang, Chuanyu Qin, Zhe Liu, Kaijing Ma, Jin Chen, **Han Fang**, Chao Ban, Hao Sun, Zhongjiang He
+authors: Haojian Huang, Chuanyu Qin, Zhe Liu, Kaijing Ma, Jin Chen, **Han Fang**, Chao Ban, Hao Sun* and Zhongjiang He*.
 image: assets/images/TUNED.png
 paper: https://ojs.aaai.org/index.php/AAAI/article/download/33914/36069
 project: https://github.com/JethroJames/TUNED
@@ -30,7 +30,7 @@ project: https://github.com/JethroJames/TUNED
 :::selected
 venue: TMM 2022
 title: Transferring Image-CLIP to Video-Text Retrieval via Temporal Relations
-authors: **Han Fang**, Pengfei Xiong, Luhui Xu, Wenhan Luo
+authors:**Han Fang**, Pengfei Xiong*, Luhui Xu and Wenhan Luo.
 image: assets/images/clip2video.png
 paper: https://ieeexplore.ieee.org/abstract/document/9973385
 project: https://github.com/CryhanFang/CLIP2Video
