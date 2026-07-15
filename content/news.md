@@ -10,7 +10,7 @@
 - **2024.03** Two papers are accepted by ICME 2024 (oral presentation).
 - **2023.11** Served as a key Contributor to the release of [TeleImage 1.0](https://mp.weixin.qq.com/s/p78hClhKv0K8r4CnEXGpew), part of the 'Xingchen' Model Family, at Tianyi Expo 2023.
 - **2023.07** Two papers are accepted by ACM MM 2023.
-- **2023.04** Served as a key Contributor to the release of the ['Xinghe' Universal Vision Model 2.0](https://mp.weixin.qq.com/s/g3oO3-0RWWN-n8nQzsF37g) at the China Telecom Cloud Ecosystem Conference 2023.
+- **2023.04** Served as a key Contributor to the release of the ['Xinghe' Vision Model 2.0](https://mp.weixin.qq.com/s/g3oO3-0RWWN-n8nQzsF37g) at the China Telecom Cloud Ecosystem Conference 2023.
 - **2022.12** One paper is accepted by TMM 2022.
 - **2022.07** Joined China Telecom Artificial Intelligence Technology (Beijing) Co., Ltd. as a research scientist, focusing on text-to-image models, video-language models and multimodal large language models.
 - **2021.03–2021.09** Research internship at PCG, Tencent, Beijing.
