@@ -39,7 +39,7 @@ project: https://github.com/CryhanFang/CLIP2Video
 
 
 - `ACM MM 2026` Mixture-of-Thought-Tokens: Unifying Perception and Reasoning for Free-form Multimodal Grounding, Tianyi Gao, **Han Fang**, Tianyi Ding, Hao Li, Xin Wei, Hongbo Sun, xiaodong dong, Ye Yuan, Jinglin Xu, Kongming Liang, Hao Sun* and Jingmin Xin*.
-- `ACM MM 2026` GeoAnchor: Collaborative Reasoning via Latent Decomposition for 3D Spatial Understanding, Hao Li, **Han Fang**, Zixin Pan, Xin Wei, Hongbo Sun, Jinglin Xu, Zhiyu Lin, Ye Yuan, Zhongjiang He, Yu Yu* and Hao Sun*.
+- `ACM MM 2026` [GeoAnchor: Collaborative Reasoning via Latent Decomposition for 3D Spatial Understanding](http://arxiv.org/abs/2607.13454), Hao Li, **Han Fang**, Zixin Pan, Xin Wei, Hongbo Sun, Jinglin Xu, Zhiyu Lin, Ye Yuan, Zhongjiang He, Yu Yu* and Hao Sun*.
 - `arXiv preprint 2026`  [SSVP: Synergistic Semantic-Visual Prompting for Industrial Zero-Shot Anomaly Detection](https://arxiv.org/pdf/2601.09147), Chenhao Fu, **Han Fang**, Xiuzheng Zheng, Wenbo Wei, Yonghua Li* and Hao Sun*.
 - `arXiv preprint 2026`  [Structure-Aware Prototype Guided Trusted Multi-View Classification](https://arxiv.org/pdf/2511.21021), Haojian Huang, Jiahao Shi, Zhe Liu, Harold Haodong Chen, **Han Fang**, Hao Sun* and Zhongjiang He*.
 - `AAAI 2026` [Adaptive Evidential Learning for Temporal-Semantic Robustness in Moment Retrieval](https://ojs.aaai.org/index.php/AAAI/article/download/37414/41376), Haojian Huang, Kaijing Ma, Jin Chen, Haodong Chen, Zhou Wu, Xianghao Zang, **Han Fang**, Chao Ban, Hao Sun*, Mulin Chen* and Zhongjiang He.
