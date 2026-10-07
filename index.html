@@ -7,7 +7,7 @@
   <title>Han Fang (方瀚) | Academic Homepage</title>
   <link rel="stylesheet" href="style.css">
 </head>
-<body>
+<body data-active-lang="en">
   <header class="site-header">
     <nav aria-label="Primary navigation">
       <a class="brand" href="#about">HF</a>
@@ -179,18 +179,25 @@
   </div>
   <footer>© 2026 Han Fang</footer>
   <script>
-    const buttons = document.querySelectorAll("[data-set-lang]");
-    const setLanguage = (lang) => {
+    (function () {
+      var buttons = document.querySelectorAll("[data-set-lang]");
+      var setLanguage = function (lang) {
       document.documentElement.lang = lang === "zh" ? "zh-CN" : "en";
       document.body.dataset.activeLang = lang;
+      document.querySelectorAll("[data-lang], [data-lang-panel]").forEach(function (node) {
+        node.hidden = node.dataset.lang !== lang && node.dataset.langPanel !== lang;
+      });
       buttons.forEach((button) => {
         button.setAttribute("aria-pressed", String(button.dataset.setLang === lang));
       });
-    };
-    buttons.forEach((button) => {
-      button.addEventListener("click", () => setLanguage(button.dataset.setLang));
-    });
-    setLanguage("en");
+      };
+      buttons.forEach(function (button) {
+        button.addEventListener("click", function () {
+          setLanguage(button.dataset.setLang);
+        });
+      });
+      setLanguage("en");
+    }());
   </script>
 </body>
 </html>
