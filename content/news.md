@@ -1,5 +1,6 @@
 # News
 
+- **2026.10** One paper is accepted by NeurIPS 2026.
 - **2026.07** Two papers are accepted by ACM MM 2026.
 - **2026.01** [TeleMM-2.0-Thinking](https://mp.weixin.qq.com/s/ArGBwQvaP0m6x0eaRM6IBQ?xtrack=1&scene=90&subscene=93&sessionid=1768046612&flutter_pos=0&clicktime=1768046614&enterid=1768046614&finder_biz_enter_id=4&jumppath=50094_1768045147185,1101_1768045156449,1101_1768045164972,50094_1768046612976&jumppathdepth=4&ascene=56&realreporttime=1768046614240&forceh5=1&devicetype=android-36&version=4.1.39.70527&nettype=WIFI&abtest_cookie=AAACAA==&lang=zh_CN&session_us=gh_799d2052d1c6&countrycode=CN&exportkey=n_ChQIAhIQfXFzy+mSVh1RWZU5zR9g4BLxAQIE97dBBAEAAAAAAOk2LcJS7ywAAAAOpnltbLcz9gKNyK89dVj010Iz2QIVf6ytR6FWm31vhvri2xnlHzFcdBUASY7GXbqvwVWLK6ROb7aToOBgYUHTVLShi/HkQEuwUgUiPkRnHY/w31bgkRt8xmszU488VzSynQHzVkNY3qdo/zEizo3zytMLHhBm6b3TDnP1/Bb8gmbZPSSKERmoAXFYA6bg17XtmXWHVCUu/sdXx+g2Fq3LXhrVIpzbsLd8jnR0BW6i57YUO44kS1miw6LkmFQin4WgTHCzDoGhG6i2wCvISKeJKL3tooBtF6maH24=&pass_ticket=T3uhEQFKlmOtGCQIPb7PxXLsrBYLR2Ec+DhTIyacRDIv6gMk7Hknk5/21h+VmMFi&wx_header=3&platform=mac) ranked 2nd on the OpenCompass Multi-modal Academic Leaderboard.
 - **2025.11** One paper is accepted by AAAI 2026.

@@ -3,7 +3,7 @@
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width,initial-scale=1">
-  <meta name="description" content="Han Fang — Senior Research Engineer at Xingchen AGI Lab, China Telecom Artificial Intelligence Technology Co., Ltd.">
+  <meta name="description" content="Han Fang (方瀚) - Research Scientist at Xingchen AGI Lab, China Telecom Artificial Intelligence Technology Co., Ltd.">
   <title>Han Fang (方瀚) | Academic Homepage</title>
   <link rel="stylesheet" href="style.css">
 </head>
@@ -11,32 +11,62 @@
   <header class="site-header">
     <nav aria-label="Primary navigation">
       <a class="brand" href="#about">HF</a>
-      <div class="nav-links"><a href="#about">About</a><a href="#news">News</a><a href="#publications">Publications</a><a href="#honors">Honors and Awards</a><a href="#education">Education</a></div>
+      <div class="nav-actions">
+        <div class="nav-links">
+          <a href="#about"><span data-lang="en">About</span><span data-lang="zh">关于</span></a>
+          <a href="#news"><span data-lang="en">News</span><span data-lang="zh">动态</span></a>
+          <a href="#publications"><span data-lang="en">Publications</span><span data-lang="zh">论文</span></a>
+          <a href="#honors"><span data-lang="en">Honors and Awards</span><span data-lang="zh">荣誉奖励</span></a>
+          <a href="#education"><span data-lang="en">Education</span><span data-lang="zh">教育经历</span></a>
+        </div>
+        <div class="language-switch" aria-label="Language switch">
+          <button type="button" data-set-lang="en" aria-pressed="true">EN</button>
+          <button type="button" data-set-lang="zh" aria-pressed="false">中文</button>
+        </div>
+      </div>
     </nav>
   </header>
   <div class="layout">
     <aside>
       <img class="portrait" src="assets/images/profile.jpg" alt="Portrait of Han Fang">
-      <h1>Han Fang (方瀚)</h1>
-      <div class="position"><strong>Research Scientist</strong><span>Xingchen AGI Lab<br>China Telecom Artificial Intelligence Technology Co., Ltd.</span></div>
+      <h1><span data-lang="en">Han Fang (方瀚)</span><span data-lang="zh">方瀚</span></h1>
+      <div class="position">
+        <strong><span data-lang="en">Research Scientist</span><span data-lang="zh">研究科学家</span></strong>
+        <span data-lang="en">Xingchen AGI Lab<br>China Telecom Artificial Intelligence Technology Co., Ltd.</span>
+        <span data-lang="zh">星辰AGI实验室<br>中电信人工智能科技有限公司</span>
+      </div>
       <ul class="research" aria-label="Research interests">
-        <li>Multimodal Learning</li>
-        <li>Video Understanding</li>
-        <li>Text-to-Image Generation</li>
+        <li><span data-lang="en">Multimodal Learning</span><span data-lang="zh">多模态学习</span></li>
+        <li><span data-lang="en">Video Understanding</span><span data-lang="zh">视频理解</span></li>
+        <li><span data-lang="en">Text-to-Image Generation</span><span data-lang="zh">文生图生成</span></li>
       </ul>
       <div class="profile-links">
         <a href="mailto:fanghan1996@outlook.com"><span aria-hidden="true">✉</span> Email</a>
-        <a href="https://scholar.google.com/citations?hl=zh-CN&amp;user=kjeKM7gAAAAJ" target="_blank" rel="noopener"><span aria-hidden="true">◎</span> Google Scholar</a>
+        <a href="https://scholar.google.com/citations?hl=zh-CN&amp;user=kjeKM7gAAAAJ" target="_blank" rel="noopener"><span aria-hidden="true">●</span> Google Scholar</a>
       </div>
     </aside>
     <main>
-      <section id="about" class="content-about">{{ABOUT}}</section>
-      <section id="news" class="news">{{NEWS}}</section>
-      <section id="publications">{{PUBLICATIONS}}</section>
-      <section id="honors">{{HONORS}}</section>
-      <section id="education" class="education">{{EDUCATION}}</section>
+      <section id="about" class="content-about"><div data-lang-panel="en">{{ABOUT}}</div><div data-lang-panel="zh">{{ABOUT_ZH}}</div></section>
+      <section id="news" class="news"><div data-lang-panel="en">{{NEWS}}</div><div data-lang-panel="zh">{{NEWS_ZH}}</div></section>
+      <section id="publications"><div data-lang-panel="en">{{PUBLICATIONS}}</div><div data-lang-panel="zh">{{PUBLICATIONS_ZH}}</div></section>
+      <section id="honors"><div data-lang-panel="en">{{HONORS}}</div><div data-lang-panel="zh">{{HONORS_ZH}}</div></section>
+      <section id="education" class="education"><div data-lang-panel="en">{{EDUCATION}}</div><div data-lang-panel="zh">{{EDUCATION_ZH}}</div></section>
     </main>
   </div>
   <footer>© {{YEAR}} Han Fang</footer>
+  <script>
+    const buttons = document.querySelectorAll("[data-set-lang]");
+    const setLanguage = (lang) => {
+      document.documentElement.lang = lang === "zh" ? "zh-CN" : "en";
+      document.body.dataset.activeLang = lang;
+      buttons.forEach((button) => {
+        button.setAttribute("aria-pressed", String(button.dataset.setLang === lang));
+      });
+    };
+    buttons.forEach((button) => {
+      button.addEventListener("click", () => setLanguage(button.dataset.setLang));
+    });
+    setLanguage("en");
+  </script>
 </body>
 </html>

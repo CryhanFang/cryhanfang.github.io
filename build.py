@@ -98,7 +98,11 @@ def news(text: str) -> str:
     )
 
 
-def publications(text: str) -> str:
+def publications(
+    text: str,
+    heading_text: str = "Publications",
+    list_id: str = "publication-list",
+) -> str:
     text = re.sub(r"<!--.*?-->", "", text, flags=re.S)
     block_pattern = r"^:::selected\s*$\n(.*?)^:::\s*$"
     blocks = re.findall(block_pattern, text, flags=re.S | re.M)
@@ -118,6 +122,7 @@ def publications(text: str) -> str:
             for name in link_names
             if data.get(name)
         )
+        links = links.replace(" 路 ", " · ")
         selected_html.append(
             '<article class="paper">'
             '<div class="paper-image">'
@@ -131,19 +136,28 @@ def publications(text: str) -> str:
             '</div></article>'
         )
 
-    marker = "# Publications"
-    before, separator, after = remaining.partition(marker)
+    heading_match = re.search(r"^#\s+(.+)$", remaining, flags=re.M)
+    if heading_match:
+        marker = heading_match.group(0)
+        before, separator, after = remaining.partition(marker)
+    else:
+        before, separator, after = "", "", remaining
     if not separator:
         return markdown(remaining) + "\n" + "\n".join(selected_html)
-    more_marker = "## Publications"
-    selected_intro, more_separator, more = after.partition(more_marker)
-    result = [markdown(before), "<h1>Publications</h1>"]
+    more_heading = re.search(r"^##\s+.+$", after, flags=re.M)
+    if more_heading:
+        selected_intro = after[: more_heading.start()]
+        more = after[more_heading.end() :]
+        more_separator = more_heading.group(0)
+    else:
+        selected_intro, more_separator, more = after, "", ""
+    result = [markdown(before), f"<h1>{html.escape(heading_text)}</h1>"]
     if more_separator and selected_intro.strip():
         result.append(markdown(selected_intro))
     result.extend(selected_html)
     publication_list = more if more_separator else selected_intro
     if publication_list.strip():
-        result.append(f'<div id="publication-list">{markdown(publication_list)}</div>')
+        result.append(f'<div id="{html.escape(list_id, quote=True)}">{markdown(publication_list)}</div>')
     return "\n".join(filter(None, result))
 
 
@@ -162,10 +176,19 @@ def main() -> None:
     template = (ROOT / "template.html").read_text(encoding="utf-8")
     replacements = {
         "{{ABOUT}}": markdown((CONTENT / "about.md").read_text(encoding="utf-8")),
+        "{{ABOUT_ZH}}": markdown((CONTENT / "about_zh.md").read_text(encoding="utf-8")),
         "{{NEWS}}": news((CONTENT / "news.md").read_text(encoding="utf-8")),
+        "{{NEWS_ZH}}": news((CONTENT / "news_zh.md").read_text(encoding="utf-8")),
         "{{PUBLICATIONS}}": publications((CONTENT / "publications.md").read_text(encoding="utf-8")),
+        "{{PUBLICATIONS_ZH}}": publications(
+            (CONTENT / "publications_zh.md").read_text(encoding="utf-8"),
+            heading_text="论文发表",
+            list_id="publication-list-zh",
+        ),
         "{{HONORS}}": markdown((CONTENT / "honors.md").read_text(encoding="utf-8")),
+        "{{HONORS_ZH}}": markdown((CONTENT / "honors_zh.md").read_text(encoding="utf-8")),
         "{{EDUCATION}}": markdown((CONTENT / "education.md").read_text(encoding="utf-8")),
+        "{{EDUCATION_ZH}}": markdown((CONTENT / "education_zh.md").read_text(encoding="utf-8")),
         "{{YEAR}}": str(date.today().year),
     }
     for placeholder, rendered in replacements.items():
