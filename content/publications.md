@@ -57,7 +57,7 @@ project: https://github.com/CryhanFang/CLIP2Video
 
 - `arXiv preprint 2026` [MeSD: Multi-Evidence Self-Distillation for VideoLLM](https://arxiv.org/abs/2610.06342), Weijie Zhu, **Han Fang**, Hanyu Fu, Yuzhe Zhang, Xin Wei, Zhaoyan Pan, Feiran Liu, Xunjie Jin, Hongbo Sun, Zhiyu Lin, Tianyi Gao, Tianyi Ding, Ye Yuan, Zhongjiang He, Hao Sun*, Zhiheng Wu*.
 
-- `NeurIPS 2026` GEAR-Align: Grounding-Evidence-Aware Gradient Routing for Multimodal Alignment, Yongkang Yu, Haobo Wang, Meng Chen, **Han Fang**, Xin Wei, Zhiyu Lin, Ye Yuan, Chiming Duan, Hao Sun, Haiyang Zhang*.
+- `NeurIPS 2026` GEAR-Align: Grounding-Evidence-Aware Gradient Routing for Multimodal Alignment, Yongkang Yu, Haobo Wang, Meng Chen, **Han Fang**, Xin Wei, Zhiyu Lin, Ye Yuan, Chiming Duan, Hao Sun*, Haiyang Zhang*.
 
 - `ACM MM 2026` [Mixture-of-Thought-Tokens: Unifying Perception and Reasoning for Free-form Multimodal Grounding](https://arxiv.org/pdf/2607.24407), Tianyi Gao, **Han Fang**, Tianyi Ding, Hao Li, Xin Wei, Hongbo Sun, xiaodong dong, Ye Yuan, Jinglin Xu, Kongming Liang, Hao Sun* and Jingmin Xin*.
 - `ACM MM 2026` [GeoAnchor: Collaborative Reasoning via Latent Decomposition for 3D Spatial Understanding](https://arxiv.org/abs/2607.13454), Hao Li, **Han Fang**, Zixin Pan, Xin Wei, Hongbo Sun, Jinglin Xu, Zhiyu Lin, Ye Yuan, Zhongjiang He, Yu Yu* and Hao Sun*.
